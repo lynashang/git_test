@@ -3,7 +3,7 @@
 
 int main()
 {
-    printf("hello word!\n");
+    printf("hello main!\n");
 
     printf("a+b=%d\n",add(1, 2));
 }
