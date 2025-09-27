@@ -5,5 +5,5 @@ int main()
 {
     printf("hello main!\n");
 
-    printf("a+b=%d\n",add(1, 2));
+    printf("a+b+a=%d\n",add(1, 2));
 }
